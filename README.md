@@ -7,3 +7,7 @@ If a cell is alive and has less than two or more than three alive neighbors, it 
 
 if it is dead and has three alive neighbors, it will come alive.
 
+
+
+https://user-images.githubusercontent.com/89848352/219980283-b178ba85-c2cd-4d7a-999f-a25ff88fc81f.mp4
+
